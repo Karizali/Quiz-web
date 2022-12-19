@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(14, 4, 50);
+    color: rgb(224, 214, 214);
+
+}
+.main{
+    margin-top: 10rem;
+    margin-left: 7rem;
+    
+}
+
+#questionNum{
+    width: 12rem;
+    font-size: 1.5rem;
+    display: block;
+    padding: .25rem .4rem;
+    border-radius: 0.5rem;
+    background-color: rgb(5, 5, 143);
+}
+#question{
+    width: 40rem;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    padding-left: .25rem;
+    margin-top: .5rem;
+    background-color: antiquewhite;
+    color: rgb(32, 31, 31);
+}
+
+button{
+    background: none;
+}
